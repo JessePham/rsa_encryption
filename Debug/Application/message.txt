@@ -1,0 +1,10 @@
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+1234567890
+!@#$%^&*()
+
+qwertyuiop[]\asdfghjkl;'
+zxcvbnm,./
+
+THE QUICK BROWN FOX JUMPED OVER THE LAZY DOG'S BACK
+the quick brown fox jumped over the lazy dog's back
